@@ -1,8 +1,17 @@
-### Olá eu sou o Gustavo Ribeiro
+### 
 
-- 🔭 Hoje estou trabalhando na CodeJR
-- 🌱 Estudando PHP
+<div align="center">
+<div>
+ <img src="https://readme-typing-svg.herokuapp.com?color=%23DD6387&center=true&vCenter=true&lines=Hello!+I+am+Gustavo+Ribeiro!;Welcome+to+my+profile!" alt="Typing SVG">
+<br>
+  Back End Developer
+</div>
+
+<p>
+- 🔭 I’m currently working at <a href="https://codejr.com.br/">Code Empresa Júnior</a>
+- 🌱 I’m currently learning Laravel
 - 😄 Pronouns: ele/dele
+</p>
 
 <div align="center">
   <a href="https://github.com/GustRib">
