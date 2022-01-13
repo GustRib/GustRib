@@ -10,7 +10,7 @@
 <p>
 - 🔭 I’m currently working at <a href="https://codejr.com.br/">Code Empresa Júnior</a>
 - 🌱 I’m currently learning Laravel
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him
 </p>
 
 <div align="center">
