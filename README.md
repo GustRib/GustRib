@@ -8,7 +8,7 @@
 </div>
 
 <p>
-- 🔭 I’m currently working at <a href="https://codejr.com.br/">Code Empresa Júnior</a>
+- 🔭 I’m currently working at <a href="https://codiacademy.com/">Codi Academy</a>
 - 🌱 I’m currently learning Laravel
 - 😄 Pronouns: he/him
 </p>
