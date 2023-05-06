@@ -9,7 +9,7 @@
 
 <p>
 - 🔭 I’m currently working at <a href="https://codiacademy.com/">Codi Academy</a>
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Vue & Laravel
 - 😄 Pronouns: he/him
 </p>
 
