@@ -9,7 +9,7 @@
 
 <p>
 - 🔭 I’m currently working at <a href="http://www.guruti.com.br">Guru TI</a>
-- 🌱 I’m currently C++ and Java
+- 🌱 I’m currently learning C++ & Java
 - 😄 Pronouns: he/him
 </p>
 
@@ -26,8 +26,11 @@
   <img align="center" alt="Gust-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Gust-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Gust-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="right" alt="Gust-Gif" height="120" width="120" src ="https://cdn.discordapp.com/attachments/393251059163987982/931313731428827136/giphy_3.gif"
-
+  <img align="right" alt="Gust-Gif" height="120" width="120" src="https://cdn.discordapp.com/attachments/393251059163987982/931313731428827136/giphy_3.gif" />
+  <img align="right" alt="Gust-Java" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="right" alt="Gust-Laravel" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+  <img align="right" alt="Gust-Vue" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+          
 </div>
   
  ##
