@@ -8,7 +8,6 @@
 </div>
 
 <p>
-- 🔭 I’m currently working at <a href="http://www.guruti.com.br">Guru TI</a>
 - 🌱 I’m currently learning C++ & Java
 - 😄 Pronouns: he/him
 </p>
