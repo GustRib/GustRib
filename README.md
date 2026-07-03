@@ -8,7 +8,7 @@
 </div>
 
 <p>
-- 🌱 I’m currently learning C++ & Java
+- 🌱 I’m currently learning PHP & Java
 - 😄 Pronouns: he/him
 </p>
 
